@@ -12,6 +12,7 @@ namespace MyConsoleApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Git的使用");
+            Console.WriteLine("非常棒的体验！");
             Console.ReadLine();
         }
     }
